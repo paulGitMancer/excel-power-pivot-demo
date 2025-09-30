@@ -2,7 +2,7 @@
 This project demonstrates using Excel to create a data model using large datasets, and then visualize it with Pivot Tables via Power Pivot.
 
 ## Steps Performed
-1. Imported large sample datasets with thousands of entries into Excel.
+1. Imported large sample datasets into Excel.
 2. Cleaned and transformed data using Power Query.
 3. Created a data model with these datasets.
 4. Linked the datasets using Power Pivot.
