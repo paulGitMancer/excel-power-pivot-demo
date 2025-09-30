@@ -9,6 +9,6 @@ This project demonstrates using Excel to create a data model using large dataset
 5. Visualized the data with Pivot Tables.
 
 ## Screenshots
-<img width="984" height="832" alt="image" src="https://github.com/user-attachments/assets/00255815-51e5-48e0-b715-91a77fac937a" />
+<img width="962" height="443" alt="image" src="https://github.com/user-attachments/assets/6695bc78-6481-4ccd-926b-0d4b9200b87f" />
 
-<img width="1400" height="882" alt="image" src="https://github.com/user-attachments/assets/a8f7009a-0018-4654-93a8-19edfd40c381" />
+<img width="1399" height="881" alt="image" src="https://github.com/user-attachments/assets/a5aba512-0a06-4113-aa97-47b1f564fbe4" />
